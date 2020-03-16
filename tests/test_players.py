@@ -10,7 +10,7 @@ class PlayerResourceTests():
     def test_player_request_without_authentication(self):
         uri = "http://api.football-data.org/v2/players/44"
         response = requests.get(uri)
-        assert response.status_code == 200
+        assert response.status_code == 403
 
     def test_get_players_information(self):
         uri = "http://api.football-data.org/v2/players/44"
