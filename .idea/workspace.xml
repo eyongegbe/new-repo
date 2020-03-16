@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6473bce-e43e-4f45-8304-bec646a0476f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6473bce-e43e-4f45-8304-bec646a0476f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../football-org-tests-api" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,11 +39,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584390285852</updated>
-      <workItem from="1584390306536" duration="2894000" />
+      <workItem from="1584390306536" duration="3225000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="77" key="FileChooserDialogImpl" timestamp="1584395068795">
+      <screen x="0" y="0" width="1440" height="752" />
+    </state>
+    <state x="450" y="77" key="FileChooserDialogImpl/0.0.1440.752@0.0.1440.752" timestamp="1584395068795" />
   </component>
 </project>
